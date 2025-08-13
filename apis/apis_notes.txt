@@ -1,0 +1,9 @@
+Here be the apis directory
+
+
+# APIs in Here
+- OpenAQ: "Gives world-wide air quality data", https://docs.openaq.org/using-the-api/quick-start
+- Open-Meteo: weather data
+- CDC SODA
+- dev.socrata
+- publicapis.dev

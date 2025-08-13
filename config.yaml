@@ -1,0 +1,19 @@
+# structure of a class thing
+messages:
+  greeting: "Hello from da YAML"
+  prefix: "Result: "
+
+# example of prtoject structure setup
+ROOT:
+  DATA_DIR: "./data"
+  NOTEBOOKS_DIR: "./notebooks"
+  APIS_DIR: "./apis"
+  ETL_DIR: "./etl"
+  UTILS_DIR: "./utils"
+
+
+
+
+# How do I use this?
+# from pathlib import Path
+# data_dir = Path(config['ROOT']['DATA_DIR'])
