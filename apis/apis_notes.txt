@@ -7,3 +7,14 @@ Here be the apis directory
 - CDC SODA
 - dev.socrata
 - publicapis.dev
+
+
+
+HTTP Reponses Codes
+400 - Bad request, server cannot or will not process request due to client error
+401 - Unauthorized, authentication is required and has failed
+402 - Payment required
+403 - Forbidden, request had valid data but server is refusing action (usually perms issue)
+404 - Not Found, ain't nothin' there
+500 - Internal Server Error, generic error when unexpected condition was encountered
+502 - Bad Gateway, 
